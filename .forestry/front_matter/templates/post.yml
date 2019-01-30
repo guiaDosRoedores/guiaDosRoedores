@@ -24,13 +24,5 @@ fields:
   default: ''
   config:
     required: true
-- type: textarea
-  name: texto
-  label: Texto
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
 pages:
 - _posts/2019-01-30-mix-de-rações.md
