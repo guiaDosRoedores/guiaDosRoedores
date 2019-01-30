@@ -32,3 +32,5 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+pages:
+- _posts/mix-de-rações.md
