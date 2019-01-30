@@ -1,0 +1,24 @@
+---
+layout: default
+titulo: Gerbos
+---
+
+
+
+  <div class="section-3">
+    <div class="container-3 w-container">
+      <h1 class="heading-2">{{ categorias.titulo }}</h1>
+    </br>
+      <div class="w-row">
+        {% for post in site.posts %}
+   <--     {% if post.categoria contains "gerbos" %}
+        <div class="w-col w-col-4">
+          <div class="div-block-9"><img src="images/Hazel.jpg" width="300" alt="" class="image-2">
+            <h1 class="heading-4">{{ post.titulo }}</h1>
+            <p class="paragraph-3">{{ post.excerpt | truncatewords: 30 }}<br>‍</p><a href="{{ post.url }}" class="button w-button">ler o post</a></div>
+        </div>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
