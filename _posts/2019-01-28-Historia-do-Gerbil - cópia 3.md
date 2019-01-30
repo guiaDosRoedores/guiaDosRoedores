@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 titulo: Historia do Gerbil 2
 categoria: outros
 
