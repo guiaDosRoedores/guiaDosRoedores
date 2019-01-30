@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: Post
 titulo: Historia do Gerbil 2
 categoria: outros
----
 
+---
 Quem tem gerbil sabe o quão rápido somos cativados por esses pequeninos. É nítido o laço entre eles e seus tutores. Mas afinal?  Como foi que esses roedores encantadores foram descobertos e transformados em animais de estimação? Veremos nesse post a história completa dos nossos dentuços favoritos. A mesma foi traduzida do Francês para o inglês pelo eGerbil e nos do Vila dos roedores traduzimos para o português BR, para que vocês, assim como nós se encantem com essa história.
 
 foto
